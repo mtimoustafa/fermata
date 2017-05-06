@@ -1,0 +1,20 @@
+{
+  "name": "fermata",
+  "version": "0.1.0",
+  "description": "A minimal music player",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/mtimoustafa/fermata",
+  "keywords": [
+    "music",
+    "player",
+    "song"
+  ],
+  "author": "Mohamed Moustafa",
+  "license": "GNU General Public License",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
